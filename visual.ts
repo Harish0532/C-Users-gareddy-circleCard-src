@@ -50,7 +50,6 @@ export class Visual implements IVisual {
         .attr('width', 20)
         .attr('height', 20)
         .attr('fill', (d,i) => colors[i]);
-        
 
     
             }
